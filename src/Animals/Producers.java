@@ -13,6 +13,7 @@ public class Producers {
 		System.out.println("Living things that can make their own food");
 		System.out.println("Plants are producers");
 		System.out.println("They make food by Photosynthesis");
+		System.out.println("Yes, Photosynthesis");
 	}
 
 }
