@@ -26,7 +26,7 @@ public class Omnivores {
 			break;
 			
 		case 3:
-			System.out.println("Jackel is not an omnivore");
+			System.out.println("Jackel or wolf is not an omnivore");
 			break;
 			
 		default:
