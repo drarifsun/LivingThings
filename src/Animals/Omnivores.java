@@ -14,7 +14,7 @@ public class Omnivores {
 		System.out.println("They have incisors as well as molars");
 		System.out.println("Human is the best example of Omnivores\n");
 		
-		int name=10;
+		int name=1;
 		switch(name)
 		{
 		case 1:
