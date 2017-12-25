@@ -15,7 +15,7 @@ public class Carnivores {
 		
 		System.out.println("Animals that live on other animal's flesh");
 		System.out.println("They have sharp canines");
-		System.out.println("Cheetah is the most fastest carnivore");
+		System.out.println("Cheetah is the fastest carnivore");
 	}
 
 }
